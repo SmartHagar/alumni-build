@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96fe657c.css",
+    "main.js": "/static/js/main.58bdb946.js",
+    "static/js/787.acd8610d.chunk.js": "/static/js/787.acd8610d.chunk.js",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/Vhiena Solid Shadow.otf": "/static/media/Vhiena Solid Shadow.10d80839d0d68aa6ed50.otf",
+    "static/media/logo-alumni.jpeg": "/static/media/logo-alumni.ebb27c1dc3c74bf71a5e.jpeg",
+    "static/media/Vhiena Regular.otf": "/static/media/Vhiena Regular.154aa200aea0d26b7795.otf",
+    "static/media/coffee+teademo-Regular.ttf": "/static/media/coffee+teademo-Regular.4ef4da05d22ef8b99f2f.ttf",
+    "static/media/3D_elements.png": "/static/media/3D_elements.fef6bb3648e7ad5af182.png",
+    "static/media/Peach Days.ttf": "/static/media/Peach Days.f8859a8fbf4f7e9695e0.ttf",
+    "static/media/gradient_dark.jpg": "/static/media/gradient_dark.07ff49ad1453df40a436.jpg",
+    "index.html": "/index.html",
+    "main.96fe657c.css.map": "/static/css/main.96fe657c.css.map",
+    "main.58bdb946.js.map": "/static/js/main.58bdb946.js.map",
+    "787.acd8610d.chunk.js.map": "/static/js/787.acd8610d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96fe657c.css",
+    "static/js/main.58bdb946.js"
+  ]
+}
